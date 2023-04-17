@@ -40,13 +40,13 @@ O sistema poderá ser utilizado por usuários. Temos os seguintes perfis/atores:
 
 | Requisito                                         | Descrição                                                                   | Ator(es) |
 | ------------------------------------------------- | --------------------------------------------------------------------------- | -------- |
-| RF001 - Efetuar Login/Logout                      | 
-| RF002 - Manter Usuário                            |
-| RF003 - Manter Cliente                            |  
-| RF004 - Manter Produto                            |  
-| RF005 - Manter Fornecedor                         |  
-| RF006 - Emitir Relatório                          |  
-| RF007 - Emitir NFe                                | 
+| RF001 - Efetuar Login/Logout                      | |
+| RF002 - Manter Usuário                            | |
+| RF003 - Manter Cliente                            |  |
+| RF004 - Manter Produto                            |  |
+| RF005 - Manter Fornecedor                         |  |
+| RF006 - Emitir Relatório                          |  |
+| RF007 - Emitir NFe                                | |
 
 
 ## Lista de Requisitos Não-Funcionais
